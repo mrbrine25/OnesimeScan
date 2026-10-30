@@ -6,7 +6,7 @@
 **Le logiciel de numérisation d'[Onésime](https://mrbrine25.github.io/Onesime/), pour les généalogistes et les archivistes.**
 
 ![Version](https://img.shields.io/github/v/release/mrbrine25/OnesimeScan?style=flat-square&color=8b5cf6&label=version)
-![Plateformes](https://img.shields.io/badge/Windows%20%7C%20macOS-gratuit-f97316?style=flat-square)
+![Plateformes](https://img.shields.io/badge/Windows%20%7C%20macOS%20%7C%20Linux-gratuit-f97316?style=flat-square)
 [![Discord](https://img.shields.io/badge/Discord-Rejoindre-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/N8ayZbzeye)
 
 </div>
@@ -24,10 +24,14 @@ Sur la **[dernière version](https://github.com/mrbrine25/OnesimeScan/releases/l
 | Windows 10 / 11 | `OnesimeScan-…-Setup.exe` |
 | Mac récent (puce Apple M1, M2, M3…) | `OnesimeScan-…-mac-arm64.dmg` |
 | Mac Intel (avant 2020) | `OnesimeScan-…-mac-x64.dmg` |
+| Linux : Ubuntu, Mint, Debian | `OnesimeScan-…-linux-amd64.deb` (double-clic pour l'installer) |
+| Linux : autres distributions | `OnesimeScan-…-linux-x86_64.AppImage` (à rendre exécutable ; demande libfuse2) |
 
 Les autres fichiers (`latest.yml`, `.blockmap`…) servent aux mises à jour automatiques : inutile de les télécharger.
 
 > **Windows** — À la première ouverture, Windows peut afficher un avertissement « application inconnue ». Cliquez sur **Informations complémentaires → Exécuter quand même**. Les versions suivantes s'installent ensuite toutes seules.
+
+> **Linux** — Le `.deb` s'ouvre avec l'installateur de logiciels d'Ubuntu ou de Mint. Les mises à jour arrivent ensuite toutes seules.
 
 > **Mac** — Au premier lancement, faites **clic droit sur l'app → Ouvrir**, puis confirmez. macOS demandera aussi l'autorisation d'accéder au **réseau local** : acceptez, c'est ce qui permet de trouver votre scanner.
 
@@ -61,7 +65,7 @@ Les autres fichiers (`latest.yml`, `.blockmap`…) servent aux mises à jour aut
 
 ## Vos données
 
-Onésime Scan fonctionne hors ligne. La reconnaissance des visages et la lecture du texte se font sur votre ordinateur, avec des modèles fournis dans l'application. Il se connecte seulement pour chercher votre scanner sur votre réseau local et, sous Windows, pour vérifier au démarrage s'il existe une nouvelle version (sur GitHub, sans rien envoyer vous concernant).
+Onésime Scan fonctionne hors ligne. La reconnaissance des visages et la lecture du texte se font sur votre ordinateur, avec des modèles fournis dans l'application. Il se connecte seulement pour chercher votre scanner sur votre réseau local et, sous Windows et Linux, pour vérifier au démarrage s'il existe une nouvelle version (sur GitHub, sans rien envoyer vous concernant).
 
 ---
 
