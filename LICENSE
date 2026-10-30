@@ -1,0 +1,90 @@
+LICENCE ONÉSIME SCAN
+Version 1.0 – 2026
+
+© 2026 Amélien BRISEBARD
+Tous droits réservés.
+
+---
+
+1. DÉFINITIONS
+
+Le terme « Logiciel » désigne le projet Onésime Scan, incluant son code source, ses fichiers, ses installeurs, sa documentation et ses ressources associées.
+
+L’« Auteur » désigne Amélien BRISEBARD.
+
+---
+
+2. PROPRIÉTÉ
+
+Le Logiciel est la propriété exclusive de l’Auteur.
+
+---
+
+3. DROITS ACCORDÉS
+
+Sous réserve du respect des conditions de cette licence, il est permis à toute personne :
+
+✔ d’utiliser le Logiciel gratuitement
+✔ de télécharger et exécuter le Logiciel
+✔ de consulter le code source à des fins éducatives ou personnelles
+
+Les images et documents numérisés avec le Logiciel appartiennent à la personne qui les a numérisés : la présente licence ne revendique aucun droit sur eux.
+
+---
+
+4. RESTRICTIONS
+
+IL EST STRICTEMENT INTERDIT, sans autorisation écrite préalable de l’Auteur :
+
+✖ de redistribuer le Logiciel (gratuitement ou non)
+✖ de vendre, louer, licencier ou exploiter commercialement le Logiciel
+✖ d’utiliser le Logiciel dans un produit ou service commercial
+
+---
+
+5. CONTRIBUTIONS
+
+Toute contribution proposée (code, idées, corrections) peut être utilisée librement par l’Auteur sans obligation de compensation.
+
+Les contributeurs acceptent que leur contribution devienne propriété de l’Auteur.
+
+---
+
+6. MARQUE ET NOM
+
+Les noms « Onésime » et « Onésime Scan », ainsi que les éléments visuels et graphiques associés (logo, couleurs, icône), sont protégés.
+
+Leur utilisation est interdite sans autorisation écrite.
+
+---
+
+7. COMPOSANTS TIERS
+
+Le Logiciel s’appuie sur des composants libres, qui restent soumis à leur propre licence et non à la présente :
+
+- Electron (MIT)
+- React (MIT)
+- sharp (Apache 2.0), qui embarque libvips (LGPL 3.0 ou ultérieure)
+- TensorFlow.js (Apache 2.0) et face-api, version de Vladimir Mandic (MIT)
+- Tesseract.js et Tesseract (Apache 2.0)
+- pdf-lib (MIT)
+- bonjour-service (MIT)
+- electron-updater (MIT)
+
+Le texte de chacune de ces licences est fourni avec le composant concerné.
+
+---
+
+8. ABSENCE DE GARANTIE
+
+Le Logiciel est fourni « tel quel », sans garantie d’aucune sorte.
+
+L’Auteur ne peut être tenu responsable d’un dommage subi par un document original pendant sa numérisation, ni de la perte de fichiers numérisés. Il appartient à l’utilisateur de vérifier ses numérisations et d’en conserver des copies.
+
+---
+
+9. ÉVOLUTION DE LA LICENCE
+
+L’Auteur peut modifier les conditions de cette licence pour les versions futures du Logiciel, y compris pour en réserver tout ou partie des fonctions à une version payante.
+
+Une version déjà téléchargée reste soumise à la licence qui l’accompagnait.
