@@ -1,4 +1,5 @@
-<img width="1600" height="500" alt="banner-scan" src="https://github.com/user-attachments/assets/acd96967-06f2-4011-be8e-1cffcaef45d1" />
+<div align="center">
+  <img width="1600" height="500" alt="banner-scan" src="https://github.com/user-attachments/assets/acd96967-06f2-4011-be8e-1cffcaef45d1" />
 
 
 **Le logiciel de numérisation d'[Onésime](https://mrbrine25.github.io/Onesime/), pour les généalogistes et les archivistes.**
@@ -46,6 +47,8 @@ Les autres fichiers (`latest.yml`, `.blockmap`…) servent aux mises à jour aut
 - Chaque photo posée sur la vitre est trouvée, bords blancs dentelés compris, et enregistrée à part
 - Redressement automatique, cadres ajustables à la souris
 - Photos couchées ou à l'envers **remises dans le bon sens** d'après les visages
+- Chaque photo **visible telle qu'elle sera enregistrée** avant de numériser, ordre changé en la faisant glisser
+- Dos de photos clairs (versos) repérés même sur un couvercle blanc
 
 **Retouches**
 - Raviver les couleurs passées, contraste automatique
