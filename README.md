@@ -1,7 +1,5 @@
-<div align="center">
-  <img src="images/icon.png" width="120" alt="Onésime Scan">
+<img width="1600" height="500" alt="banner-scan" src="https://github.com/user-attachments/assets/acd96967-06f2-4011-be8e-1cffcaef45d1" />
 
-# Onésime Scan
 
 **Le logiciel de numérisation d'[Onésime](https://mrbrine25.github.io/Onesime/), pour les généalogistes et les archivistes.**
 
