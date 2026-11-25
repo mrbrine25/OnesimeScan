@@ -72,6 +72,6 @@ Onésime Scan fonctionne hors ligne. La reconnaissance des visages et la lecture
 
 ## Licence
 
-Gratuit pour un usage personnel. Redistribution, revente ou exploitation commerciale interdites sans autorisation écrite. Texte complet : [LICENSE](LICENSE).
+Gratuit, pour un usage personnel, associatif ou professionnel (pour son propre travail). Redistribution, revente, version modifiée ou intégration à un produit commercial interdites sans autorisation écrite. Vos numérisations vous appartiennent. Texte complet : [LICENSE](LICENSE).
 
 Développé par **Amélien BRISEBARD**, auteur d'[Onésime](https://github.com/mrbrine25/Onesime).
